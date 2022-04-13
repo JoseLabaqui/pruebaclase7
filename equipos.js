@@ -1,1 +1,1 @@
-let equipos = ["riverx2","boca"]
+let equipos = ["riverx2","boca", "hola"]
