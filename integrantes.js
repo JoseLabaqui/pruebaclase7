@@ -1,0 +1,1 @@
+let integrantes = ['Jose Labaqui','Nicolas Horche','Nicolas Quartero'];
